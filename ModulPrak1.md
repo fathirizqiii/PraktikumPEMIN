@@ -5,7 +5,7 @@
 
 ....
 
-2. Menjalankan mongodb-windows-x86_64-6.0.1-signed.msi yang telah diinstall sebelumnya. (Saya telah melakukan instalasi Composer dan MongoDB sebelumnya sehingga tahapan penginstallannya sedikit berbeda dengan modul)
+2. Menjalankan mongodb-windows-x86_64-6.0.1-signed.msi yang telah diinstall sebelumnya. (Saya telah melakukan instalasi Composer dan MongoDB sebelumnya sehingga tahapan penginstallannya sedikit berbeda dengan modul. Tahapan yang saya lakukan adalah "change" disebabkan sudah terinstallnya MongoDB ini, tetapi memiliki tujuan untuk menginstall MongoDB. Pengguna cukup menggunakan konfigurasi aplikasi secara default dan mencentang End-User License Agreement untuk dapat menginstall perangkat lunak ini. Nantinya, MongoDB akan secara otomatis terbuka setelah berhasil diinstall)
    
 <img width="386" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/74462041-60ad-412f-a787-ec6f3ffde27f">
 <img width="388" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a130c1aa-7e0a-4246-a28e-553a6c3b7b8d">
