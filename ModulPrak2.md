@@ -51,16 +51,29 @@
 
 ...
 
-12.
+12. Menjalankan perintah "db.books.insertOne(<data>) untuk melakukan insert buku "Overlord 1"
 <img width="960" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/40d7f5f7-f3d9-48b2-b733-e4f385655fb9">
 
 ...
 
-13. 
+13. Menjalankan perintah "db.books.insertMany(<data>) untuk melakukan insert buku "The Setting Sun" dan "Hujan"
 <img width="946" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/34e02be5-c145-4de8-9f40-2ed685a41ace">
+
+...
+
+14. Menjalankan perintah "db.books.find()" untuk melakukan dan menampilkan pencarian semua buku
 <img width="596" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f4898df7-d579-4172-a171-c76f9b68d521">
+
+...
+15. Menjalankan perintah "db.books.find({author : "Osamu Dazai"})" untuk menampilkan seluruh buku dengan author bernamakan "Osamu Dazai"
 <img width="584" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9f1a43f7-ed8a-42b7-9827-1cc6824e819a">
+
+16. Menjalankan perintah "db.books.updateOne({filter}), {$set : {<data yang akan diupdate>}}) untuk melakukan perubahan summary pada buku "Hujan" menjadi "Buku yang bagus (Muhammad Fathi Rizqi, 215150707111016)
 <img width="943" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9557f927-db55-44b1-bcea-4e624529c42f">
+
+...
+
+17. 
 <img width="600" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b601e8e0-3bcc-4fde-a680-fc0a6b597d6b">
 <img width="765" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/97c6d8f9-c72d-45eb-8183-22fd875b0a4c">
 
