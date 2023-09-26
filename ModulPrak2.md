@@ -41,6 +41,8 @@
 9. Menjalankan perintah "show dbs" untuk melihat list database yang ada di server
 <img width="430" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/ab726ea9-8903-49f8-aa4b-dec08374815e">
 
+...
+
 10. Menjalankan perintah "use bookstore" untuk berpindah ke database "bookstore". Terlihat pada gambar di bawah bahwasannya proses telah berhasil dilaksanakan
 <img width="439" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/07cb3fcc-121c-4812-883e-3c74e2cdb9b9">
 
@@ -65,6 +67,7 @@
 <img width="596" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f4898df7-d579-4172-a171-c76f9b68d521">
 
 ...
+
 15. Menjalankan perintah "db.books.find({author : "Osamu Dazai"})" untuk menampilkan seluruh buku dengan author bernamakan "Osamu Dazai"
 <img width="584" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9f1a43f7-ed8a-42b7-9827-1cc6824e819a">
 
@@ -73,9 +76,20 @@
 
 ...
 
-17. 
+17. Menjalankan perintah "db.books.updateMany({<filter>, {$set : {<data yang akan diupdate>}})
+<img width="773" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/19dd9531-1f58-4797-9252-fb811ebd2a5b">
+
+...
+
+18. Menjalankan perintah "db.books.deleteOne({<argument>}) untuk melakukan penghapusan pada Buku "Overlord 1"
 <img width="600" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b601e8e0-3bcc-4fde-a680-fc0a6b597d6b">
+
+... 
+
+19. Menjalankan perintah "db.books.deleteMany({argument>} untuk melakukan penghapusan pada semua Buku "Osamu Dazai"
 <img width="765" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/97c6d8f9-c72d-45eb-8183-22fd875b0a4c">
+
+...
 
 
 
