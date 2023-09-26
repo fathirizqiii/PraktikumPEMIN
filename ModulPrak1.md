@@ -3,8 +3,10 @@
 <img width="418" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/762d312f-8c9d-4fda-b21f-587e5321a9fb"> 
 <img width="524" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/73ec157b-debe-4211-9120-9f22c5222a6e">
 
------
+....
 
+2. Menjalankan mongodb-windows-x86_64-6.0.1-signed.msi yang telah diinstall sebelumnya.
+   
 <img width="386" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/74462041-60ad-412f-a787-ec6f3ffde27f">
 <img width="388" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a130c1aa-7e0a-4246-a28e-553a6c3b7b8d">
 <img width="384" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/52d2759f-90f8-434c-86c5-ffc1b9c38cba">
