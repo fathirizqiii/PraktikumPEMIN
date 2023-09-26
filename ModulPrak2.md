@@ -47,11 +47,16 @@
 ...
 
 11. Menjalankan perintah "show collections" untuk melihat collections yang ada pada database. Terlihat pada output yang diberikan bahwa terdapat collection yang bernamakan "books"
+<img width="654" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/89aa5c6f-e5bd-4fba-b43a-a1d064c6d985">
+
+...
+
+12.
 <img width="960" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/40d7f5f7-f3d9-48b2-b733-e4f385655fb9">
 
 ...
 
-12. 
+13. 
 <img width="946" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/34e02be5-c145-4de8-9f40-2ed685a41ace">
 <img width="596" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f4898df7-d579-4172-a171-c76f9b68d521">
 <img width="584" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9f1a43f7-ed8a-42b7-9827-1cc6824e819a">
