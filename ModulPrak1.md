@@ -13,6 +13,7 @@
 <img width="652" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/6a8a8ddf-a976-44f2-a92f-d28954a3af7a">
 <img width="655" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/14295f62-ed5f-42a7-a0a7-9070852c8128">
 <img width="653" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/c5d93ff0-3331-4896-80d3-d7d3653e0c69">
+<img width="799" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/94b8f2ac-43f8-4075-8bfc-442515ed90ee">
 
 ....
 
