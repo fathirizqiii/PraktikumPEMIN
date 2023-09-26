@@ -1,4 +1,5 @@
-1. Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum (Composer : https://getcomposer.org/download/, MongoDB : https://www.mongodb.com/try/download/community dan)
+1. Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum
+(Composer : https://getcomposer.org/download/, MongoDB : https://www.mongodb.com/try/download/community dan)
 
 <img width="654" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e3d662b8-543b-4514-835a-344eeed4b2f8">
 <img width="526" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9e60ddd7-8c70-4b8e-b2ca-e17f541a2ab4">
