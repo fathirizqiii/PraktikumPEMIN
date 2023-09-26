@@ -23,14 +23,35 @@
 
 ...
 
-6. 
-
+6. Melakukan edit document dengan mengubah summary pada Buku "No Longer Human" menjadi "Buku yang bagus (Muhammad Fathi Rizqi, 215150707111016)
 <img width="944" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/d713bec1-e5aa-46ab-83b7-db028517e9d4">
+
+...
+
+7. Melakukan penghapusan (Remove Document) pada Buku "I Am a Cat"
 <img width="762" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4a3bb339-5b33-4375-90a2-6afe5bd5ba3b">
+
+...
+
+8. Melakukan koneksi ke MongoDB Server dengan menggunakan command "mongosh" pada Command Prompt Windows
 <img width="960" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a1d34b3c-fa47-4e8b-b36e-7f96c1da97e8">
+
+...
+
+9. Menjalankan perintah "show dbs" untuk melihat list database yang ada di server
 <img width="430" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/ab726ea9-8903-49f8-aa4b-dec08374815e">
+
+10. Menjalankan perintah "use bookstore" untuk berpindah ke database "bookstore". Terlihat pada gambar di bawah bahwasannya proses telah berhasil dilaksanakan
 <img width="439" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/07cb3fcc-121c-4812-883e-3c74e2cdb9b9">
+
+...
+
+11. Menjalankan perintah "show collections" untuk melihat collections yang ada pada database. Terlihat pada output yang diberikan bahwa terdapat collection yang bernamakan "books"
 <img width="960" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/40d7f5f7-f3d9-48b2-b733-e4f385655fb9">
+
+...
+
+12. 
 <img width="946" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/34e02be5-c145-4de8-9f40-2ed685a41ace">
 <img width="596" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f4898df7-d579-4172-a171-c76f9b68d521">
 <img width="584" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9f1a43f7-ed8a-42b7-9827-1cc6824e819a">
