@@ -22,7 +22,7 @@
 
 ....
 
-4. aa
+4. Langkah terakhir, yaitu melakukan konfigurasi App Key Lumen. Buatlah endpoint untuk mengembalikan random string dengan panjang 32 pada file web.php folder routes. Setelah itu, masukkan random string pada bagian App Key file .env (Saya telah mendapatkan random string sebelumnya melalui website "https://pinetools.com/random-string-generator".
 <img width="694" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/bd1905e0-95b5-4d41-bafc-29e5e26bba69">
 <img width="457" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/23587ea7-75cd-44de-ba1b-a8b26cb9fe1b">
 
