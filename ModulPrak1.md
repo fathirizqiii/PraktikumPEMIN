@@ -1,4 +1,5 @@
-<img width="418" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/762d312f-8c9d-4fda-b21f-587e5321a9fb"> <img width="524" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/73ec157b-debe-4211-9120-9f22c5222a6e">
+<img width="418" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/762d312f-8c9d-4fda-b21f-587e5321a9fb"> 
+<img width="524" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/73ec157b-debe-4211-9120-9f22c5222a6e">
 
 
 Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum (Saya telah menginstalasi Composer sebelumnya, oleh karena itu saya hanya akan melakukan proses instalasi dan konfigurasi MongoDB)
