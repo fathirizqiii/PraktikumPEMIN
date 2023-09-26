@@ -12,6 +12,13 @@
 <img width="946" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/34e02be5-c145-4de8-9f40-2ed685a41ace">
 <img width="596" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f4898df7-d579-4172-a171-c76f9b68d521">
 <img width="584" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9f1a43f7-ed8a-42b7-9827-1cc6824e819a">
+<img width="943" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9557f927-db55-44b1-bcea-4e624529c42f">
+<img width="600" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b601e8e0-3bcc-4fde-a680-fc0a6b597d6b">
+<img width="765" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/97c6d8f9-c72d-45eb-8183-22fd875b0a4c">
+
+
+
+
 
 
 
