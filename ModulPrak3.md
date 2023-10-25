@@ -1,2 +1,3 @@
 1. Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
-2.
+![Uploading SR main event-chap 1.png…]()
+
