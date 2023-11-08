@@ -152,13 +152,13 @@ Menampilkan semua buku yang ada dan Buku “Dilan 1990” (Parameter ID) dengan 
 
 Melakukan proses perubahan pada fungsi updateBook sesuai dengan sintaks langkah praktikum
 
-<img width="685" alt="Screenshot 2023-11-08 112758" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/6afda0e2-817b-4c54-86d5-7c88ef4bf079">
+<img width="767" alt="Screenshot 2023-11-08 121546" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f48e836a-7256-4a30-96c4-c860d73f90eb">
 
 ---
 
 Mengubah Title pada Buku “Dilan 1991” menjadi “Fathi 1991” menggunakan endpoint PUT pada Postman. Operasi update ini menggunakan parameter ID dari Buku “Dilan 1991”
 
-![Uploading Screenshot 2023-11-08 112818.png…<img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/613725fa-d31f-40de-8bbb-28fa4696a347">
+<img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/613725fa-d31f-40de-8bbb-28fa4696a347">
 
 ---
 
