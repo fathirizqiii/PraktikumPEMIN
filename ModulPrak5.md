@@ -1,0 +1,16 @@
+<img width="896" alt="Screenshot 2023-11-08 123439" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1098de71-4ece-438f-af39-f7b320daef63">
+<img width="653" alt="Screenshot 2023-11-08 123502" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a5954201-978e-4d6a-9d7f-699fddfbaaf4">
+<img width="879" alt="Screenshot 2023-11-08 123518" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/edbfbea2-56c6-446c-9d72-850735e2e2e3">
+<img width="570" alt="Screenshot 2023-11-08 123547" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/3da38874-fbbf-4bb5-926c-fc3e8f5e157a">
+<img width="791" alt="Screenshot 2023-11-08 123606" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/0604810d-2787-4dbd-800b-f1a5e06aca02">
+<img width="653" alt="Screenshot 2023-11-08 123635" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/2feb09d5-e19a-4100-abc1-d429510df468">
+<img width="657" alt="Screenshot 2023-11-08 123653" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b2f8db77-090f-484f-b3d4-65db3d83161a">
+<img width="898" alt="Screenshot 2023-11-08 123709" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/c72a8461-d67b-442b-8baf-bec585cd5a32">
+<img width="644" alt="Screenshot 2023-11-08 123736" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9ac789c8-7bbd-45e1-be35-7afa6d01a552">
+<img width="919" alt="Screenshot 2023-11-08 123752" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/2dc50573-690f-4fa6-b277-af7faa41028a">
+<img width="908" alt="Screenshot 2023-11-08 123808" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/8d3d95e3-46bf-4742-8dbb-0010fffe24bf">
+<img width="940" alt="Screenshot 2023-11-08 123829" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9a66f477-02f4-4974-bfc6-467441b60442">
+<img width="941" alt="Screenshot 2023-11-08 123845" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e8b6b103-3b6c-4121-8b04-7e344718ddbe">
+<img width="562" alt="Screenshot 2023-11-08 123907" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/73b9eeee-3544-42c0-9307-4daa2e831451">
+<img width="559" alt="Screenshot 2023-11-08 123956" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b47141e8-c1ba-47d1-8e0b-4025e4bc5a91">
+<img width="560" alt="Screenshot 2023-11-08 124016" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/2e14e84c-bf4a-4dd3-930b-6634b43593b3">
