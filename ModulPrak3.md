@@ -94,6 +94,8 @@ Membuat dua buah buku, bernamakan “Dilan 1990” dan “Dilan 1991” dengan d
 
 <img width="656" alt="Screenshot 2023-11-08 112544" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/ce6b5a80-147a-4e47-8b97-f470e7ad4338">
 
+---
+
 <img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a6aaf33c-b928-4a4a-90a0-06dcf42f0fc8">
 
 Melakukan proses perubahan terhadap fungsi getAllBooks dan getOneBook sesuai dengan sintaks pada langkah praktikum
