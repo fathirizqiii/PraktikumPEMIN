@@ -170,13 +170,13 @@ Melakukan proses perubahan pada fungsi deleteBook sesuai dengan sintaks langkah 
 
 Menghapus Buku “Dilan 1990” dengan menggunakan parameter ID buku tersebut pada Postman. Terlihat pada gambar bahwa berhasil “menghapus satu buku”.
 
-<img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
+<img width="685" alt="Screenshot 2023-11-08 112758" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1a94068b-cdb4-4a8a-88fe-062c8ebf1a9a">
 
 ---
 
 Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengecek hasil akhir dari percobaan sebelumnya. Terlihat pada gambar di atas bahwa jumlah buku hanya tersisa 1 (Buku “Dilan 1990” sudah sukses terhapus) dan Buku “Dilan 1991” telah berubah menjadi “Fathi 1991”
 
-<img width="685" alt="Screenshot 2023-11-08 112758" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1a94068b-cdb4-4a8a-88fe-062c8ebf1a9a">
+<img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
 
 ]()
 
