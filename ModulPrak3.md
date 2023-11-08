@@ -1,4 +1,6 @@
 Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
+
+<img width="494" alt="Screenshot 2023-11-08 111751" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1ce0663-6961-4a24-a86a-aba8f5613ac0">
    
 <img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
    
@@ -66,7 +68,10 @@ Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengece
 <img width="685" alt="Screenshot 2023-11-08 112758" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1a94068b-cdb4-4a8a-88fe-062c8ebf1a9a">
 ]()
 
-<img width="494" alt="Screenshot 2023-11-08 111751" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1ce0663-6961-4a24-a86a-aba8f5613ac0">
+
+--
+
+
 <img width="535" alt="Screenshot 2023-11-08 111810" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e0a0ffd6-30ee-4a1c-bec3-71f19402dc65">
 <img width="826" alt="Screenshot 2023-11-08 111835" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4424288c-829f-4e3a-8905-5bf04dc717a3">
 <img width="826" alt="Screenshot 2023-11-08 111848" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/527fd06a-0884-4f48-9593-2277db604737">
