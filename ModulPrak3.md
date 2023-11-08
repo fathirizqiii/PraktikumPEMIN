@@ -1,67 +1,67 @@
-1. Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
+Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
    
 <img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
    
-3. Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
-   
-4. Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
-   
-5. Menjalankan perintah “npm i express mongoose dotenv” untuk menginstall express, mongoose, dan dotenv
-   
-6. Membuat file index.js pada root folder, kemudian masukkan kode sesuai dengan langkah praktikum. Setelah itu, coba jalankan aplikasi dengan perintah “node index.js”. Sesuai pada output di atas, terlihat bahwa proses hanya stuck pada “Running on port 8000” tanpa membuat koneksi yang sukses (Mongo Connected)
-
-6.Melakukan pembuatan file .env dengan menambahkan “PORT = 5000”
-
-7. Melakukan pengubahan kode pada listening port sesuai dengan langkah praktikum
-
-8. Memasukkan connection string yang terdapat pada compas atau atlas, yaitu mongodb://localhost:27017
-
-9. Menambahkan baris kode baru pada file index.js, kemudian jalankan aplikasi kembali dengan perintah “node index.js”. Terlihat pada output di atas bahwa Mongo telah terkoneksi (Mongo Connected)
-
-10. Melakukan pengecekan pada web browser apakah Koneksi Mongo telah sukses dengan memasukkan URL localhost:5000. Sesuai pada gambar, koneksi telah berjalan sukses dengan mengembalikan output message berupa nama dan nim.
-
-11. Membuat direktori routes di tingkat yang sama dengan index.js, kemudian membuat file book.route.js di dalamnya
-
-12. Menambahkan sintaks terkait fungsi getOneBook, createBook, updateBook, dan deleteBook
-
-13. Menambahkan dua baris sintaks, yaitu “const bookRoutes” dan “app.use(‘/books’, bookRoutes)” untuk melakukan proses import book.route.js di dalam file index.js
-
-14. Melakukan pengujian endpoint POST menggunakan Postman. Terlihat pada gambar di atas bahwa output yang dihasilkan telah sesuai dengan input endpoint POST
-    
-15. Membuat direktori controllers di tingkat yang sama dengan index.js, kemudian membuat file book.controller.js di dalamnya. Setelah itu, tambahkan sintaks terkait fungsi getOneBook, createBook, updateBook, dan deleteBook
-
-16. Melakukan import book.controller.js di dalam file book.route.js
-
-17. Melakukan modifikasi fungsi agar dapat memanggil fungsi dari book.controller.js
-
-18. Melakukan pengujian kembali pada endpoint post menggunakan Postman. Terlihat pada gambar di atas bahwa output yang dihasilkan sesuai dengan percobaan endpoint post sebelumnya
-
-19. Membuat direktori models di tingkat yang sama dengan index.js, kemudian membuat file book.model.js di dalamnya. Setelah itu, tambahkan baris kode sesuai dengan langkah praktikum
-
-20. Menghapus semua data, yaitu collection books, melalui aplikasi MongoDB Compass
-
-21. Melakukan import book.model.js pada file book.controller.js
-    
-22. Melakukan perubahan pada fungsi createBook seperti sintaks di atas
-
-23. Membuat dua buah buku, bernamakan “Dilan 1990” dan “Dilan 1991” dengan data sesuai dengan langkah praktikum yang ada, menggunakan endpoint POST pada Postman
-
-24. Melakukan proses perubahan terhadap fungsi getAllBooks dan getOneBook sesuai dengan sintaks pada langkah praktikum
-
-25. Menampilkan semua buku yang ada dan Buku “Dilan 1990” (Parameter ID) dengan menggunakan endpoint GET pada Postman.
-
-26. Melakukan proses perubahan pada fungsi updateBook sesuai dengan sintaks langkah praktikum
-
-27. Mengubah Title pada Buku “Dilan 1991” menjadi “Fathi 1991” menggunakan endpoint PUT pada Postman. Operasi update ini menggunakan parameter ID dari Buku “Dilan 1991”
-
-28. Melakukan proses perubahan pada fungsi deleteBook sesuai dengan sintaks langkah praktikum
-
-29.Menghapus Buku “Dilan 1990” dengan menggunakan parameter ID buku tersebut pada Postman. Terlihat pada gambar bahwa berhasil “menghapus satu buku”.
-
-30. Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengecek hasil akhir dari percobaan sebelumnya. Terlihat pada gambar di atas bahwa jumlah buku hanya tersisa 1 (Buku “Dilan 1990” sudah sukses terhapus) dan Buku “Dilan 1991” telah berubah menjadi “Fathi 1991”
-
+Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
 
 ![Uploading Screenshot 2023-11-08 112818.png…<img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/613725fa-d31f-40de-8bbb-28fa4696a347">
+   
+Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
+   
+Menjalankan perintah “npm i express mongoose dotenv” untuk menginstall express, mongoose, dan dotenv
+   
+Membuat file index.js pada root folder, kemudian masukkan kode sesuai dengan langkah praktikum. Setelah itu, coba jalankan aplikasi dengan perintah “node index.js”. Sesuai pada output di atas, terlihat bahwa proses hanya stuck pada “Running on port 8000” tanpa membuat koneksi yang sukses (Mongo Connected)
+
+Melakukan pembuatan file .env dengan menambahkan “PORT = 5000”
+
+Melakukan pengubahan kode pada listening port sesuai dengan langkah praktikum
+
+Memasukkan connection string yang terdapat pada compas atau atlas, yaitu mongodb://localhost:27017
+
+Menambahkan baris kode baru pada file index.js, kemudian jalankan aplikasi kembali dengan perintah “node index.js”. Terlihat pada output di atas bahwa Mongo telah terkoneksi (Mongo Connected)
+
+Melakukan pengecekan pada web browser apakah Koneksi Mongo telah sukses dengan memasukkan URL localhost:5000. Sesuai pada gambar, koneksi telah berjalan sukses dengan mengembalikan output message berupa nama dan nim.
+
+Membuat direktori routes di tingkat yang sama dengan index.js, kemudian membuat file book.route.js di dalamnya
+
+Menambahkan sintaks terkait fungsi getOneBook, createBook, updateBook, dan deleteBook
+
+Menambahkan dua baris sintaks, yaitu “const bookRoutes” dan “app.use(‘/books’, bookRoutes)” untuk melakukan proses import book.route.js di dalam file index.js
+
+Melakukan pengujian endpoint POST menggunakan Postman. Terlihat pada gambar di atas bahwa output yang dihasilkan telah sesuai dengan input endpoint POST
+    
+Membuat direktori controllers di tingkat yang sama dengan index.js, kemudian membuat file book.controller.js di dalamnya. Setelah itu, tambahkan sintaks terkait fungsi getOneBook, createBook, updateBook, dan deleteBook
+
+Melakukan import book.controller.js di dalam file book.route.js
+
+Melakukan modifikasi fungsi agar dapat memanggil fungsi dari book.controller.js
+
+Melakukan pengujian kembali pada endpoint post menggunakan Postman. Terlihat pada gambar di atas bahwa output yang dihasilkan sesuai dengan percobaan endpoint post sebelumnya
+
+Membuat direktori models di tingkat yang sama dengan index.js, kemudian membuat file book.model.js di dalamnya. Setelah itu, tambahkan baris kode sesuai dengan langkah praktikum
+
+Menghapus semua data, yaitu collection books, melalui aplikasi MongoDB Compass
+
+Melakukan import book.model.js pada file book.controller.js
+    
+Melakukan perubahan pada fungsi createBook seperti sintaks di atas
+
+Membuat dua buah buku, bernamakan “Dilan 1990” dan “Dilan 1991” dengan data sesuai dengan langkah praktikum yang ada, menggunakan endpoint POST pada Postman
+
+Melakukan proses perubahan terhadap fungsi getAllBooks dan getOneBook sesuai dengan sintaks pada langkah praktikum
+
+Menampilkan semua buku yang ada dan Buku “Dilan 1990” (Parameter ID) dengan menggunakan endpoint GET pada Postman.
+
+Melakukan proses perubahan pada fungsi updateBook sesuai dengan sintaks langkah praktikum
+
+Mengubah Title pada Buku “Dilan 1991” menjadi “Fathi 1991” menggunakan endpoint PUT pada Postman. Operasi update ini menggunakan parameter ID dari Buku “Dilan 1991”
+
+Melakukan proses perubahan pada fungsi deleteBook sesuai dengan sintaks langkah praktikum
+
+Menghapus Buku “Dilan 1990” dengan menggunakan parameter ID buku tersebut pada Postman. Terlihat pada gambar bahwa berhasil “menghapus satu buku”.
+
+Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengecek hasil akhir dari percobaan sebelumnya. Terlihat pada gambar di atas bahwa jumlah buku hanya tersisa 1 (Buku “Dilan 1990” sudah sukses terhapus) dan Buku “Dilan 1991” telah berubah menjadi “Fathi 1991”
+
 <img width="791" alt="Screenshot 2023-11-08 112734" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/8afb2763-4c3a-4ccb-9113-ace765c452e0">
 <img width="685" alt="Screenshot 2023-11-08 112758" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1a94068b-cdb4-4a8a-88fe-062c8ebf1a9a">
 ]()
