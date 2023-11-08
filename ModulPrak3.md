@@ -1,6 +1,5 @@
-<img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
-
 1. Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
+<img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
    
 2. Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
    
