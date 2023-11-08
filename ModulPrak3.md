@@ -6,19 +6,33 @@ Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
    
 Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
 
+<img width="535" alt="Screenshot 2023-11-08 111810" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e0a0ffd6-30ee-4a1c-bec3-71f19402dc65">
+
 ![Uploading Screenshot 2023-11-08 112818.png…<img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/613725fa-d31f-40de-8bbb-28fa4696a347">
    
 Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
+
+<img width="826" alt="Screenshot 2023-11-08 111835" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4424288c-829f-4e3a-8905-5bf04dc717a3">
    
 Menjalankan perintah “npm i express mongoose dotenv” untuk menginstall express, mongoose, dan dotenv
+
+<img width="826" alt="Screenshot 2023-11-08 111848" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/527fd06a-0884-4f48-9593-2277db604737">
    
 Membuat file index.js pada root folder, kemudian masukkan kode sesuai dengan langkah praktikum. Setelah itu, coba jalankan aplikasi dengan perintah “node index.js”. Sesuai pada output di atas, terlihat bahwa proses hanya stuck pada “Running on port 8000” tanpa membuat koneksi yang sukses (Mongo Connected)
 
+<img width="727" alt="Screenshot 2023-11-08 111905" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a39d491a-9738-491c-9c79-08cdc0e0fdca">
+
 Melakukan pembuatan file .env dengan menambahkan “PORT = 5000”
+
+<img width="479" alt="Screenshot 2023-11-08 111927" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/39d26c72-6439-48ea-8b87-36a5f2cc38b6">
 
 Melakukan pengubahan kode pada listening port sesuai dengan langkah praktikum
 
+<img width="839" alt="Screenshot 2023-11-08 111948" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a389337f-0d21-432f-82b5-d1da88736990">
+
 Memasukkan connection string yang terdapat pada compas atau atlas, yaitu mongodb://localhost:27017
+
+<img width="424" alt="Screenshot 2023-11-08 112007" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/850bf2bc-e3ac-49ec-9e3d-d03aad8c4947">
 
 Menambahkan baris kode baru pada file index.js, kemudian jalankan aplikasi kembali dengan perintah “node index.js”. Terlihat pada output di atas bahwa Mongo telah terkoneksi (Mongo Connected)
 
@@ -72,13 +86,6 @@ Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengece
 --
 
 
-<img width="535" alt="Screenshot 2023-11-08 111810" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e0a0ffd6-30ee-4a1c-bec3-71f19402dc65">
-<img width="826" alt="Screenshot 2023-11-08 111835" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4424288c-829f-4e3a-8905-5bf04dc717a3">
-<img width="826" alt="Screenshot 2023-11-08 111848" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/527fd06a-0884-4f48-9593-2277db604737">
-<img width="727" alt="Screenshot 2023-11-08 111905" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a39d491a-9738-491c-9c79-08cdc0e0fdca">
-<img width="479" alt="Screenshot 2023-11-08 111927" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/39d26c72-6439-48ea-8b87-36a5f2cc38b6">
-<img width="839" alt="Screenshot 2023-11-08 111948" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a389337f-0d21-432f-82b5-d1da88736990">
-<img width="424" alt="Screenshot 2023-11-08 112007" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/850bf2bc-e3ac-49ec-9e3d-d03aad8c4947">
 <img width="565" alt="Screenshot 2023-11-08 112023" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1be91f29-a52b-442c-a83c-ca7720edef5c">
 <img width="477" alt="Screenshot 2023-11-08 112049" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/81a03467-ed33-49d3-a019-346c21992243">
 <img width="600" alt="Screenshot 2023-11-08 112106" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/691ee9a2-e48e-4b15-aca6-784500aa74a6">
