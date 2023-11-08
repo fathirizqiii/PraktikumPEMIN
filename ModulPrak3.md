@@ -1,13 +1,14 @@
 1. Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
+   
 <img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
    
-2. Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
+3. Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
    
-3. Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
+4. Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
    
-4. Menjalankan perintah “npm i express mongoose dotenv” untuk menginstall express, mongoose, dan dotenv
+5. Menjalankan perintah “npm i express mongoose dotenv” untuk menginstall express, mongoose, dan dotenv
    
-5. Membuat file index.js pada root folder, kemudian masukkan kode sesuai dengan langkah praktikum. Setelah itu, coba jalankan aplikasi dengan perintah “node index.js”. Sesuai pada output di atas, terlihat bahwa proses hanya stuck pada “Running on port 8000” tanpa membuat koneksi yang sukses (Mongo Connected)
+6. Membuat file index.js pada root folder, kemudian masukkan kode sesuai dengan langkah praktikum. Setelah itu, coba jalankan aplikasi dengan perintah “node index.js”. Sesuai pada output di atas, terlihat bahwa proses hanya stuck pada “Running on port 8000” tanpa membuat koneksi yang sukses (Mongo Connected)
 
 6.Melakukan pembuatan file .env dengan menambahkan “PORT = 5000”
 
