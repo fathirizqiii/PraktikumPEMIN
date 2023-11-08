@@ -22,7 +22,6 @@
 
 11. Membuat direktori routes di tingkat yang sama dengan index.js, kemudian membuat file book.route.js di dalamnya
 
-
 12. Menambahkan sintaks terkait fungsi getOneBook, createBook, updateBook, dan deleteBook
 
 13. Menambahkan dua baris sintaks, yaitu “const bookRoutes” dan “app.use(‘/books’, bookRoutes)” untuk melakukan proses import book.route.js di dalam file index.js
@@ -94,4 +93,3 @@
 <img width="655" alt="Screenshot 2023-11-08 112620" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/2fcead49-c58c-4220-b003-47a31b95746e">
 <img width="654" alt="Screenshot 2023-11-08 112635" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/8680d51c-ee44-48f8-95dc-89a5cea3b72d">
 <img width="770" alt="Screenshot 2023-11-08 112648" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/5a461bb3-3690-4663-82b3-f6181239a52c">
-
