@@ -2,13 +2,9 @@ Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
 
 <img width="494" alt="Screenshot 2023-11-08 111751" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1ce0663-6961-4a24-a86a-aba8f5613ac0">
    
-<img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
-   
 Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
 
 <img width="535" alt="Screenshot 2023-11-08 111810" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e0a0ffd6-30ee-4a1c-bec3-71f19402dc65">
-
-![Uploading Screenshot 2023-11-08 112818.png…<img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/613725fa-d31f-40de-8bbb-28fa4696a347">
    
 Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
 
@@ -122,5 +118,9 @@ Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengece
 
 <img width="791" alt="Screenshot 2023-11-08 112734" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/8afb2763-4c3a-4ccb-9113-ace765c452e0">
 <img width="685" alt="Screenshot 2023-11-08 112758" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1a94068b-cdb4-4a8a-88fe-062c8ebf1a9a">
+<img width="656" alt="Screenshot 2023-11-08 112818" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/256d3626-f572-4b93-9eae-92fac3d97cb4">
+![Uploading Screenshot 2023-11-08 112818.png…<img width="674" alt="Screenshot 2023-11-08 112713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/613725fa-d31f-40de-8bbb-28fa4696a347">
+
 ]()
+
 
