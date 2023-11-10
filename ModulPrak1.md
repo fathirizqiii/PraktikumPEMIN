@@ -4,6 +4,11 @@
 ## NIM : 215150707111016 ##
 
 ### Tujuan Praktikum ###
+1. Melakukan instalasi composer.
+2. Melakukan instalasi MongoDB.
+3. Melakukan instalasi lumen.
+4. Melakukan konfigurasi APP Key.
+5. Mengakses server melalui route.
 
 1. Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum
 (Composer : https://getcomposer.org/download/, MongoDB : https://www.mongodb.com/try/download/community dan)
