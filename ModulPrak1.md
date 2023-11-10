@@ -22,6 +22,8 @@ Pada lumen tidak perlu banyak melibatkan frontend framework JS, namun lebih difo
 2. MongoDB
 MongoDB adalah database NoSQL berorientasi dokumen (document-oriented) yang menyimpan datanya dalam bentuk collection dan document Cara kerja MongoDB tidak seperti database relasional (SQL) yang bergantung pada tabel dan kolom. Hal ini memungkinkan setiap data pada MongoDB memiliki skema yang berbeda-beda.
 
+##
+
 1. Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum
 (Composer : https://getcomposer.org/download/, MongoDB : https://www.mongodb.com/try/download/community dan)
 
