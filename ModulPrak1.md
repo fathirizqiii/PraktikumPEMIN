@@ -12,6 +12,16 @@
 
 ##
 
+### Dasar Teori Praktikum ###
+
+1. Lumen
+Lumen adalah solusi sempurna untuk membangun microservice berbasis Laravel dan API yang sangat cepat. Lumen merupakan salah satu kerangka kerja mikro tercepat yang tersedia.
+
+Pada lumen tidak perlu banyak melibatkan frontend framework JS, namun lebih difokuskan ke backend pakai php dan API. Pada penggunaan API bisa juga menggunakan laravel tapi sangat disarankan untuk tidak memakai Laravel kalau hanya untuk kebutuhan API saja karena Laravel mempunyai banyak fitur, yang nantinya fitur-fitur ini tidak terpakai karena hanya memanfaatkan API nya saja. 
+
+2. MongoDB
+MongoDB adalah database NoSQL berorientasi dokumen (document-oriented) yang menyimpan datanya dalam bentuk collection dan document Cara kerja MongoDB tidak seperti database relasional (SQL) yang bergantung pada tabel dan kolom. Hal ini memungkinkan setiap data pada MongoDB memiliki skema yang berbeda-beda.
+
 1. Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum
 (Composer : https://getcomposer.org/download/, MongoDB : https://www.mongodb.com/try/download/community dan)
 
