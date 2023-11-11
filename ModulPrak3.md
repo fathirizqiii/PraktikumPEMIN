@@ -180,6 +180,7 @@
 4. Membuat dua buah buku, bernamakan “Dilan 1990” dan “Dilan 1991” dengan data sesuai dengan langkah praktikum yang ada, menggunakan endpoint POST pada Postman
 
 <img width="656" alt="Screenshot 2023-11-08 112544" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/ce6b5a80-147a-4e47-8b97-f470e7ad4338">
+<img width="715" alt="Screenshot 2023-11-11 122713" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/63b75ee9-94cb-409d-8ff9-2916229e3a50">
 
 ---
 
