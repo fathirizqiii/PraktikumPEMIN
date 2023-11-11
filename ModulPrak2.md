@@ -18,7 +18,7 @@
 
 ### Langkah Percobaan Praktikum ###
 
-### MongoDB Compass ###
+### A. MongoDB Compass ###
 
 1. Melakukan koneksi ke MongoDB secara local (atlas), yaitu "mongodb://localhost:27017"
 <img width="940" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/5e1e493d-2f60-4fcd-b5b3-ffb7873b1d8c">
@@ -55,62 +55,64 @@
 
 ---
 
-8. Melakukan koneksi ke MongoDB Server dengan menggunakan command "mongosh" pada Command Prompt Windows
+### B. MongoDB Shell ###
+
+1. Melakukan koneksi ke MongoDB Server dengan menggunakan command "mongosh" pada Command Prompt Windows
 <img width="960" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a1d34b3c-fa47-4e8b-b36e-7f96c1da97e8">
 
 ---
 
-9. Menjalankan perintah "show dbs" untuk melihat list database yang ada di server. Terlihat pada gambar bahwasannya database "bookstore" sudah ada karena telah ditambahkan pada langkah nomor 2
+2. Menjalankan perintah "show dbs" untuk melihat list database yang ada di server. Terlihat pada gambar bahwasannya database "bookstore" sudah ada karena telah ditambahkan pada langkah nomor 2
 <img width="430" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/ab726ea9-8903-49f8-aa4b-dec08374815e">
 
 ---
 
-10. Menjalankan perintah "use bookstore" untuk berpindah ke database "bookstore". Terlihat pada gambar di bawah bahwasannya proses telah berhasil dilaksanakan
+3. Menjalankan perintah "use bookstore" untuk berpindah ke database "bookstore". Terlihat pada gambar di bawah bahwasannya proses telah berhasil dilaksanakan
 <img width="439" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/07cb3fcc-121c-4812-883e-3c74e2cdb9b9">
 
 ---
 
-11. Menjalankan perintah "show collections" untuk melihat collections yang ada pada database. Terlihat pada output yang diberikan bahwa terdapat collection yang bernamakan "books"
+4. Menjalankan perintah "show collections" untuk melihat collections yang ada pada database. Terlihat pada output yang diberikan bahwa terdapat collection yang bernamakan "books"
 <img width="654" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/89aa5c6f-e5bd-4fba-b43a-a1d064c6d985">
 
 ---
 
-12. Menjalankan perintah "db.books.insertOne({title : "Overlord I", author : "Kugane Maruyama", ... }) untuk melakukan insert buku "Overlord 1" beserta elemen author, year, pages, summary, dan publisher
+5. Menjalankan perintah "db.books.insertOne({title : "Overlord I", author : "Kugane Maruyama", ... }) untuk melakukan insert buku "Overlord 1" beserta elemen author, year, pages, summary, dan publisher
 <img width="960" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/40d7f5f7-f3d9-48b2-b733-e4f385655fb9">
 
 ---
 
-13. Menjalankan perintah "db.books.insertMany([{title : "The Setting Sun", author : "Osamu Dazai", ... }, {title : "Hujan", author : "Tere Liye", ... }]) untuk melakukan insert buku "The Setting Sun" dan "Hujan", beserta elemen author, year, pages, summary, dan publisher
+6. Menjalankan perintah "db.books.insertMany([{title : "The Setting Sun", author : "Osamu Dazai", ... }, {title : "Hujan", author : "Tere Liye", ... }]) untuk melakukan insert buku "The Setting Sun" dan "Hujan", beserta elemen author, year, pages, summary, dan publisher
 <img width="946" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/34e02be5-c145-4de8-9f40-2ed685a41ace">
 
 ---
 
-14. Menjalankan perintah "db.books.find()" untuk melakukan dan menampilkan pencarian semua buku. Seperti pada output di bawah, dapat dilihat bahwa terdapat buku "No Longer Human, Overlord I, The Setting Sun, dan Hujan"
+7. Menjalankan perintah "db.books.find()" untuk melakukan dan menampilkan pencarian semua buku. Seperti pada output di bawah, dapat dilihat bahwa terdapat buku "No Longer Human, Overlord I, The Setting Sun, dan Hujan"
 <img width="596" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f4898df7-d579-4172-a171-c76f9b68d521">
 
 ---
 
-15. Menjalankan perintah "db.books.find({author : "Osamu Dazai"})" untuk menampilkan seluruh buku dengan author bernamakan "Osamu Dazai". Terlihat pada output di bawah bahwasannya terdapat 2 buku dari author "Osamu Dazai" ini dengan elemen title, year, pages, summary, dan publisher yang berbeda.
+8. Menjalankan perintah "db.books.find({author : "Osamu Dazai"})" untuk menampilkan seluruh buku dengan author bernamakan "Osamu Dazai". Terlihat pada output di bawah bahwasannya terdapat 2 buku dari author "Osamu Dazai" ini dengan elemen title, year, pages, summary, dan publisher yang berbeda.
 <img width="584" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9f1a43f7-ed8a-42b7-9827-1cc6824e819a">
 
 ---
 
-16. Menjalankan perintah "db.books.updateOne({_id : Object Id(...)}, {$set : {summary : "Buku yang bagus (Muhammad Fathi Rizqi, 215150707111016}}) untuk melakukan perubahan summary pada buku "Hujan" menjadi "Buku yang bagus (Muhammad Fathi Rizqi, 215150707111016)
+9. Menjalankan perintah "db.books.updateOne({_id : Object Id(...)}, {$set : {summary : "Buku yang bagus (Muhammad Fathi Rizqi, 215150707111016}}) untuk melakukan perubahan summary pada buku "Hujan" menjadi "Buku yang bagus (Muhammad Fathi Rizqi, 215150707111016)
 <img width="943" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9557f927-db55-44b1-bcea-4e624529c42f">
 
 ---
 
-17. Menjalankan perintah "db.books.updateMany({author : "Osamu Dazai"}, {$set : {publisher : "Yen Press}}) untuk mengubah data publisher dari keseluruhan buku yang memiliki author "Osamu Dazai" menjadi "Yen Press"
+10. Menjalankan perintah "db.books.updateMany({author : "Osamu Dazai"}, {$set : {publisher : "Yen Press}}) untuk mengubah data publisher dari keseluruhan buku yang memiliki author "Osamu Dazai" menjadi "Yen Press"
 <img width="773" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/19dd9531-1f58-4797-9252-fb811ebd2a5b">
 
 ---
 
-18. Menjalankan perintah "db.books.deleteOne({_id : ObjectId(...)}) untuk melakukan penghapusan pada Buku "Overlord 1"
+11. Menjalankan perintah "db.books.deleteOne({_id : ObjectId(...)}) untuk melakukan penghapusan pada Buku "Overlord 1"
 <img width="600" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b601e8e0-3bcc-4fde-a680-fc0a6b597d6b">
 
 ---
 
-19. Menjalankan perintah "db.books.deleteMany({author : "Osamu Dazai"}) untuk melakukan penghapusan pada semua Buku "Osamu Dazai"
+12. Menjalankan perintah "db.books.deleteMany({author : "Osamu Dazai"}) untuk melakukan penghapusan pada semua Buku "Osamu Dazai"
 <img width="765" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/97c6d8f9-c72d-45eb-8183-22fd875b0a4c">
 
 ---
