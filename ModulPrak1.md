@@ -56,6 +56,11 @@
 ##
 
 ### Kesimpulan Praktikum ###
+1. Praktikum ini memberikan panduan dan langkah-langkah untuk melakukan instalasi Lumen, MongoDB, dan konfigurasi APP Key. Tujuan praktikum ini adalah agar mahasiswa dapat menguasai proses instalasi dan konfigurasi dasar yang diperlukan untuk memulai pengembangan dengan menggunakan Lumen dan MongoDB.
+
+2. Lumen merupakan suatu kerangka kerja micro berbasis Laravel, yang digunakan untuk membangun microservice dan API yang sangat cepat. Kecepatan eksekusi yang tinggi menjadi salah satu keunggulan utama Lumen. Terdapat pula penekanan pada pengembangan backend menggunakan PHP dan API, tanpa perlu terlalu banyak melibatkan frontend framework JS. Di lain sisi, MongoDB, merupakan suatu database NoSQL berorientasi dokumen atau (document-oriented), yang melakukan penyimpanan data dalam bentuk koleksi dan dokumen. Berbeda dengan database relasional (SQL), MongoDB memungkinkan setiap data memiliki skema yang berbeda-beda.
+
+3. Percobaan praktikum dimulai dengan proses instalasi Composer dan MongoDB. Proses instalasi MongoDB melibatkan beberapa langkah, termasuk konfigurasi service dan instalasi MongoDB Compass. Selanjutnya, melakukan proses instalasi Lumen dengan membuat proyek baru dan menjalankannya menggunakan server lokal. Terakhir, proses diakhiri dengan melakukan konfigurasi APP Key pada Lumen, yaitu membuat random string dengan panjang 32 karakter (https://pinetools.com/random-string-generator) dan dimasukkan ke dalam file .env pada APP_KEY untuk pengamanan aplikasi.
 
 
 
