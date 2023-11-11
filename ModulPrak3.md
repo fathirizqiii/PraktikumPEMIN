@@ -186,41 +186,43 @@
 
 5. Melakukan proses perubahan terhadap fungsi getAllBooks dan getOneBook sesuai dengan sintaks pada langkah praktikum
 
+<img width="716" alt="Screenshot 2023-11-11 122744" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/827c23fb-ef57-413c-984e-7fe10e70eebc">
 
 ---
 
 6. Menampilkan semua buku yang ada dan Buku “Dilan 1990” (Parameter ID) dengan menggunakan endpoint GET pada Postman.
 
-
+<img width="716" alt="Screenshot 2023-11-11 122813" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/c7a05d5e-c7be-4c13-8ef9-8f46d3b3fe4f">
 
 ---
 
 7. Melakukan proses perubahan pada fungsi updateBook sesuai dengan sintaks langkah praktikum
 
-
+<img width="764" alt="Screenshot 2023-11-11 122916" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/3e8d6a46-e69e-471b-a0a8-0d01739b74f8">
 
 ---
 
 8. Mengubah Title pada Buku “Dilan 1991” menjadi “Fathi 1991” menggunakan endpoint PUT pada Postman. Operasi update ini menggunakan parameter ID dari Buku “Dilan 1991”
-
-
+   
+<img width="679" alt="Screenshot 2023-11-11 122957" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4f44749f-6955-415c-8019-9b3995cc050a">
 
 ---
 
 9. Melakukan proses perubahan pada fungsi deleteBook sesuai dengan sintaks langkah praktikum
-
-
+    
+<img width="714" alt="Screenshot 2023-11-11 123019" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/5cfa077d-4100-4e85-b164-01bd21e16536">
 
 ---
 
 10. Menghapus Buku “Dilan 1990” dengan menggunakan parameter ID buku tersebut pada Postman. Terlihat pada gambar bahwa berhasil “menghapus satu buku”.
 
-
+<img width="681" alt="Screenshot 2023-11-11 123134" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/ac4d1c7d-bb04-410c-8cbe-7cbc6a660ebe">
 
 ---
 
-13. Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengecek hasil akhir dari percobaan sebelumnya. Terlihat pada gambar di atas bahwa jumlah buku hanya tersisa 1 (Buku “Dilan 1990” sudah sukses terhapus) dan Buku “Dilan 1991” telah berubah menjadi “Fathi 1991”
+11. Menampilkan keseluruhan data Buku dengan endpoint GET pada Postman untuk mengecek hasil akhir dari percobaan sebelumnya. Terlihat pada gambar di atas bahwa jumlah buku hanya tersisa 1 (Buku “Dilan 1990” sudah sukses terhapus) dan Buku “Dilan 1991” telah berubah menjadi “Fathi 1991”
 
+<img width="673" alt="Screenshot 2023-11-11 123216" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a57eb28c-40a8-409d-92cb-0f46e47399ba">
 
 ---
 
