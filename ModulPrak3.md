@@ -228,4 +228,36 @@
 
 ### Kesimpulan ###
 
+1. Praktikum ini bertujuan untuk membekali mahasiswa dengan keterampilan dalam mengintegrasikan MongoDB dengan Express.js, mencakup inisiasi proyek Express, pemasangan paket seperti Mongoose dan Dotenv, penghubungan proyek Express dengan MongoDB, pembuatan routing dan controller, pembuatan model skema, serta pelaksanaan operasi CRUD dengan Express.js.
+
+Kesimpulan:
+Inisiasi Proyek Express:
+
+Node.js diinstal untuk membuat proyek dengan Express.js.
+Package Mongoose dan Dotenv diinstal untuk pemodelan data MongoDB dan konfigurasi variabel lingkungan.
+Koneksi Express dengan MongoDB:
+
+Proyek Express dihubungkan ke MongoDB menggunakan Mongoose.
+Koneksi ke MongoDB diatur menggunakan variabel lingkungan dari file .env.
+Pembuatan Routing dan Controller:
+
+Routing diimplementasikan dengan Express.js untuk menangani endpoint-endpoint tertentu.
+Controller digunakan untuk mengelola logika pemrograman terkait operasi CRUD.
+Pembuatan Model Skema:
+
+Model skema dibuat untuk merepresentasikan struktur data MongoDB.
+Skema ini diintegrasikan ke dalam controller untuk operasi CRUD.
+Operasi CRUD:
+
+Operasi CRUD (Create, Read, Update, Delete) diimplementasikan pada buku dengan Express.js.
+Data buku dimanipulasi baik melalui MongoDB Compass dan Postman.
+Model skema digunakan untuk memvalidasi dan menyimpan data ke MongoDB.
+Async Await:
+
+Penggunaan async dan await diimplementasikan dalam pemodelan data dan operasi CRUD.
+Melalui praktikum ini, mahasiswa diharapkan dapat memahami integrasi antara Express.js dan MongoDB, mengelola model data, mengonfigurasi routing, serta melaksanakan operasi CRUD secara efektif menggunakan Express.js. Kesadaran terhadap penggunaan async-await dalam operasi-operasi berbasis jaringan juga diharapkan diperoleh.
+
+##
+
+
 
