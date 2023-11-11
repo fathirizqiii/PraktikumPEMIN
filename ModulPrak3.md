@@ -1,3 +1,36 @@
+# Praktikum 3 : Integrasi MongoDB dan Express
+
+## Nama : Muhammad Fathi Rizqi ##
+## NIM : 215150707111016 ##
+
+### Tujuan Praktikum ###
+1. Memasang Node.JS dan inisiasi project Express
+2. Memasang package Mongoose dan Dotenv
+3. Menghubungkan project Express ke MongoDB
+4. Membuat routing dan controller dengan Express
+5. Membuat model skema untuk struktur data MongoDB
+6. Melakukan operasi CRUD dengan Express
+
+##
+
+### Dasar Teori Praktikum ###
+
+1. Express.js merupakan suatu framework web app untuk Node.js yang ditulis dengan bahasa pemrograman JavaScript. Framework open source ini dibuat oleh TJ Holowaychuk pada tahun 2010 lalu. Express.js ini merupakan framework back end, yang artinya bertanggung jawab dalam mengatur fungsionalitas website, seperti pengelolaan routing dan session, permintaan HTTP, penanganan error, serta pertukaran data di server.
+
+2. Mongoose merupakan pustaka berbasis Node.js yang digunakan untuk melakukan pemodelan data pada MongoDB. Mongoose menyediakan feature, antara lain model data application berbasis schema, dan juga termasuk built-in type casting, validation, query building, business logic hooks, serta masih banyak lagi yang menjadi keandalan mongoose.
+
+3. Async Await merupakan sebuah fungsi yang mengembalikan sebuah promise dan hanya berjalan di dalam Async. Await bertujuan untuk menunda jalannya Async hingga proses dari Await tersebut berhasil dieksekusi.
+
+4. Model merupakan bagian yang bertugas untuk menyiapkan, mengatur, memanipulasi, dan mengorganisasikan data yang ada di database.
+
+5. Controller merupakan bagian yang menjadi tempat berkumpulnya logika pemrograman yang digunakan untuk memisahkan organisasi data pada database. Dalam beberapa kasus, controller menjadi penghubung antara model dan view pada arsitektur MVC (Model, View, Controller)
+
+6. Router berfungsi untuk mengatur pintu masuk yang berupa request pada aplikasi, dengan memilah dan mengolah request url untuk kemudian diproses sesuai dengan tujuan akhir url tersebut. Bisa jadi url tersebut berfungsi untuk mengambil data, kemudian menampilkannya, menghapus data, menampilkan form, sampai mengolah session.
+
+##
+
+### Langkah Percobaan Praktikum ###
+
 Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
 
 <img width="494" alt="Screenshot 2023-11-08 111751" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1ce0663-6961-4a24-a86a-aba8f5613ac0">
