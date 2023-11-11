@@ -226,7 +226,7 @@
 
 ---
 
-### Kesimpulan ###
+### Kesimpulan Praktikum ###
 
 1. Praktikum ini memberikan panduan dan langkah-langkah untuk mengintegrasikan MongoDB dengan Express.js, mencakup inisiasi proyek Express, pemasangan paket seperti Mongoose dan Dotenv, penghubungan proyek Express dengan MongoDB, pembuatan routing dan controller, pembuatan model, serta pelaksanaan operasi CRUD dengan Express.js.
 
@@ -252,6 +252,3 @@
 - Menggunakan model untuk melakukan validasi dan menyimpan data ke MongoDB.
 
 ##
-
-
-
