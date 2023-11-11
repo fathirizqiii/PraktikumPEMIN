@@ -18,6 +18,8 @@
 
 ### Langkah Percobaan Praktikum ###
 
+### MongoDB Compass ###
+
 1. Melakukan koneksi ke MongoDB secara local (atlas), yaitu "mongodb://localhost:27017"
 <img width="940" alt="image" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/5e1e493d-2f60-4fcd-b5b3-ffb7873b1d8c">
 
