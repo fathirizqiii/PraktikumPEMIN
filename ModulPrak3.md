@@ -31,17 +31,21 @@
 
 ### Langkah Percobaan Praktikum ###
 
-Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
+### A. Percobaan instalasi NodeJS ###
+
+1. Melakukan penginstalan NodeJS sebagai langkah awal dalam mengerjakan praktikum
 
 <img width="494" alt="Screenshot 2023-11-08 111751" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1ce0663-6961-4a24-a86a-aba8f5613ac0">
 
 ---
    
-Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
+2. Menjalankan perintah “node -v” untuk melakukan pemeriksaan apakah NodeJS sudah terinstall
 
 <img width="535" alt="Screenshot 2023-11-08 111810" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e0a0ffd6-30ee-4a1c-bec3-71f19402dc65">
 
 ---
+
+### B. Inisiasi project Express dan pemasangan package ###
    
 Masuk ke dalam direktori C:\Users\Lenovo\Downloads\PEMIN\Praktikum PEMIN\express-mongodb, kemudian jalankan perintah “npm init -y” untuk menggenerate file package.json
 
