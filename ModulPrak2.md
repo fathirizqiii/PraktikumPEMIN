@@ -118,7 +118,7 @@
 ---
 
 ### Kesimpulan Praktikum ###
-1. Praktikum ini bertujuan untuk membekali mahasiswa dengan keterampilan melakukan operasi CRUD pada MongoDB menggunakan dua pendekatan, yaitu MongoDB Compass dengan antarmuka grafis (GUI) dan MongoDB Shell melalui command line interface (CLI). 
+1. Praktikum ini memberikan panduan dan langkah-langkah untuk melakukan operasi CRUD pada MongoDB menggunakan dua pendekatan, yaitu MongoDB Compass dengan antarmuka grafis (GUI) dan MongoDB Shell melalui command line interface (CLI). 
 
 2. MongoDB Compass dapat digunakan secara efisien untuk melakukan operasi CRUD tanpa perlu berhadapan dengan baris perintah, melibatkan langkah-langkah seperti koneksi ke MongoDB, membuat dan mengisi database, serta melakukan pencarian, pembaruan, dan penghapusan data.
 
