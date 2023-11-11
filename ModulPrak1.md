@@ -55,7 +55,7 @@
 ---
 ##
 
-### Langkah Percobaan Praktikum ###
+### Kesimpulan Praktikum ###
 
 
 
