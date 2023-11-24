@@ -10,9 +10,16 @@
 
 ##
 
-### Dasar Teori Praktikum ###
+### Langkah Percobaan Praktikum ###
+### GET ###
+
+1. Menambahkan sintaks sesuai dengan modul praktikum sebagai endpoint pada file web.php, yang berada di dalam folder routes, menggunakan method GET
 
 <img width="768" alt="Screenshot 2023-11-08 122500" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/08a0b44d-759b-4299-bc0a-3f8f75031c3c">
+
+---
+
+2. Menjalankan perintah “php -S localhost:8000 -t public” untuk dapat menjalankan aplikasi. Terlihat pada gambar bahwa koneksi ke http:/localhost:8000 telah berhasil
 <img width="734" alt="Screenshot 2023-11-08 122531" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1d3c9c4-3291-48c4-8eea-16dcc2540723">
 <img width="453" alt="Screenshot 2023-11-08 122601" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/064b4149-9ac7-45a0-bbfb-c7e388c884d9">
 <img width="626" alt="Screenshot 2023-11-08 122619" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1269a698-3506-4962-a7ac-0ede76fc7b99">
