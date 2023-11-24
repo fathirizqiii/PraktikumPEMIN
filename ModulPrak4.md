@@ -118,20 +118,20 @@
 
 1. Basic Routing:
 
-Mahasiswa diminta untuk menambahkan endpoint dengan metode GET pada file web.php untuk menanggapi permintaan GET pada URL /get.
-Dengan menjalankan server dan membuka browser ke http://localhost:8000/get, mahasiswa dapat menguji implementasi dasar routing.
+- Melakukan penambahan endpoint dengan metode GET pada file web.php untuk menanggapi permintaan GET pada URL /get.
+- Melakukan implementasi dasar routing dengan menjalankan server dan membuka browser ke http://localhost:8000/get.
 
 2. Metode POST, PUT, PATCH, DELETE, dan OPTIONS:
 
-Pada langkah ini, mahasiswa diminta untuk menambahkan rute untuk metode POST, PUT, PATCH, DELETE, dan OPTIONS pada file web.php.
-Penggunaan ekstensi Thunder Client pada VSCode memungkinkan mahasiswa untuk membuat permintaan ke server dengan metode yang sesuai.
-Tujuan percobaan ini adalah memastikan server merespons dengan benar untuk setiap metode yang diimplementasikan.
+- Melakukan penambahan route untuk metode POST, PUT, PATCH, DELETE, dan OPTIONS pada file web.php.
+- Menggunakan ekstensi Thunder Client pada VSCode untuk membuat permintaan ke server dengan metode yang sesuai.
+- Tujuan percobaan ini adalah memastikan server merespons dengan benar untuk setiap metode yang diimplementasikan.
 
 3. Migrasi Database:
 
-Mahasiswa diminta untuk mengkonfigurasi database di file .env dan menghidupkan fasilitas bawaan Lumen untuk menggunakan Eloquent.
-Dengan membuat dua file migrasi untuk tabel "users" dan "products" menggunakan perintah php artisan make:migration, mahasiswa memahami proses pembuatan migrasi.
-Melalui modifikasi struktur tabel dalam fungsi up() pada masing-masing file migrasi, mahasiswa memahami konsep pengaturan skema database.
-Menjalankan migrasi dengan perintah php artisan migrate menghasilkan pembuatan tabel baru dalam database.
+- Melakukan konfigurasi database di file .env dan menghidupkan Lumen untuk menggunakan Eloquent.
+- Menjalankan perintah php artisan make:migration untuk membuat dua file migrasi untuk tabel "users" dan "products"
+- Melakukan modifikasi struktur tabel dalam fungsi up() pada masing-masing file migrasi
+- Menjalankan migrasi dengan perintah php artisan migrate untuk menghasilkan pembuatan tabel baru dalam database.
 
 ### 
