@@ -1,3 +1,17 @@
+# Praktikum 4 : Basic Routing dan Migration
+
+## Nama : Muhammad Fathi Rizqi ##
+## NIM : 215150707111016 ##
+
+### Tujuan Praktikum ###
+1. Melakukan basic routing.
+2. Mengakses routing
+3. Melakukan migration ke database
+
+##
+
+### Dasar Teori Praktikum ###
+
 <img width="768" alt="Screenshot 2023-11-08 122500" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/08a0b44d-759b-4299-bc0a-3f8f75031c3c">
 <img width="734" alt="Screenshot 2023-11-08 122531" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b1d3c9c4-3291-48c4-8eea-16dcc2540723">
 <img width="453" alt="Screenshot 2023-11-08 122601" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/064b4149-9ac7-45a0-bbfb-c7e388c884d9">
