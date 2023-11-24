@@ -12,7 +12,7 @@
 
 ### Langkah Percobaan Praktikum ###
 
-### GET ###
+### A. GET ###
 
 1. Menambahkan sintaks sesuai dengan modul praktikum sebagai endpoint pada file web.php, yang berada di dalam folder routes, menggunakan method GET
 
@@ -32,7 +32,7 @@
 
 ---
 
-### POST, PUT, PATCH, DELETE, dan OPTIONS ###
+### B. POST, PUT, PATCH, DELETE, dan OPTIONS ###
 
 1. Menambahkan method POST, PUT, PATCH, DELETE, dan OPTIONS pada file web.php sesuai dengan sintaks pada modul praktikum
    
@@ -70,7 +70,7 @@
 
 ---
 
-### Migrasi Database ###
+### C. Migrasi Database ###
 
 1. Membuat database bernamakan “lumenapi” dan memastikan server database aktif sebagai langkah awal dalam melakukan migrasi database
 
@@ -113,4 +113,3 @@
 <img width="721" alt="Screenshot 2023-11-08 123110" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/569cfe91-5e9b-4733-a06d-55a3dfb2e14f">
 
 ---
-
