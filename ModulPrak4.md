@@ -113,3 +113,7 @@
 <img width="721" alt="Screenshot 2023-11-08 123110" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/569cfe91-5e9b-4733-a06d-55a3dfb2e14f">
 
 ---
+
+### Kesimpulan Praktikum ###
+
+### 
