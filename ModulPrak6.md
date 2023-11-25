@@ -109,9 +109,13 @@
 
 ---
 
-2. Menambahkan sintaks pada baris 31 - 38 untuk menambahkan function defaultUser(), createUser(), dan getUsers() pada HomeController.php
+2. Menambahkan sintaks pada baris 43 - 93 untuk menambahkan function defaultUser(), createUser(), dan getUsers() pada HomeController.php
    
 <img width="806" alt="Screenshot 2023-11-08 124628" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/461d9c5d-daf9-405e-880d-eac213c55500">
+
+<img width="787" alt="Screenshot 2023-11-26 010709" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/882d1bc7-12f6-467a-b1e8-ba63de1e57da">
+
+<img width="788" alt="Screenshot 2023-11-26 010807" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/17a47f3a-5020-42d9-97e8-aabd866724ef">
 
 ---
 
