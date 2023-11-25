@@ -12,15 +12,29 @@
 ##
 
 ### Dasar Teori Praktikum ###
-
-
+1. Model merupakan bagian yang bertugas untuk menyiapkan, mengatur, memanipulasi, dan mengorganisasikan data yang ada di database. Model merepresentasikan kolom apa saja yang ada pada database, termasuk relasi dan primary key.
+2. Controller merupakan bagian yang menjadi tempat berkumpulnya logika pemrograman yang digunakan untuk memisahkan organisasi data pada database. Dalam beberapa kasus, controller menjadi penghubung antara model dan view pada arsitektur MVC
+3. Request handler merupakan fungsi yang digunakan untuk berinteraksi dengan request yang datang. Request handler dapat digunakan untuk melihat apa saja yang dikirimkan oleh user seperti parameter, query, dan body.
+4. Response handler merupakan fungsi yang digunakan untuk membentuk output yang diharapkan kepada user dan beberapa properti selain data, seperti status code dan header.
+##
 
 ### Langkah Percobaan Praktikum ###
 
-### A. Dynamic Route ###
+### A. Model ###
+
+1. Memastikan telah terdapatnya table users dengan kolom id, createdAt, updatedAt, name, email, dan password, yang dibuat menggunakan migration pada percobaan praktikum sebelumnya. Terlihat pada gambar bahwa informasi seluruh kolom pada table users telah tersedia
 
 <img width="849" alt="Screenshot 2023-11-08 124236" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/16bf09a8-4d19-4d1e-b166-fe134d2d732e">
+
+---
+
+2. Membersihkan isi File User.php yang ada sebelumnya, kemudian menuliskan sintaks baru seperti pada gambar
+   
 <img width="850" alt="Screenshot 2023-11-08 124251" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/be9bdc10-fb20-4eda-83e0-77e996c5a56a">
+
+---
+
+3. 
 <img width="791" alt="Screenshot 2023-11-08 124320" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f8e6a919-34c4-46ca-88c7-213fd2f1c605">
 <img width="793" alt="Screenshot 2023-11-08 124333" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/286c4bfd-89d1-4b8b-ac55-67a1c7ae3c45">
 <img width="791" alt="Screenshot 2023-11-08 124352" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f3e4374b-6765-4d92-bf74-76b69ac82047">
