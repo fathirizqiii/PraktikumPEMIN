@@ -16,6 +16,7 @@
 2. Controller merupakan bagian yang menjadi tempat berkumpulnya logika pemrograman yang digunakan untuk memisahkan organisasi data pada database. Dalam beberapa kasus, controller menjadi penghubung antara model dan view pada arsitektur MVC
 3. Request handler merupakan fungsi yang digunakan untuk berinteraksi dengan request yang datang. Request handler dapat digunakan untuk melihat apa saja yang dikirimkan oleh user seperti parameter, query, dan body.
 4. Response handler merupakan fungsi yang digunakan untuk membentuk output yang diharapkan kepada user dan beberapa properti selain data, seperti status code dan header.
+   
 ##
 
 ### Langkah Percobaan Praktikum ###
@@ -39,6 +40,8 @@
 1. Membuat File Controller baru bernamakan “HomeController.php” dalam folder app/Http/Controllers dengan melakukan copy dari File “ExampleController.php”. Proses selanjutnya dilakukan dengan menambahkan fungsi index()
 
 <img width="791" alt="Screenshot 2023-11-08 124320" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f8e6a919-34c4-46ca-88c7-213fd2f1c605">
+
+---
 
 2. Menambahkan sintaks, yaitu baris 20 sesuai dengan modul praktikum, pada file routes/web.php
    
