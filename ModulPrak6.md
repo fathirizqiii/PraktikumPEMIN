@@ -120,18 +120,18 @@
 
 4. Menjalankan aplikasi pada route /users/default menggunakan postman (URL “http://localhost:8000/users/default” dan method “POST”). Terlihat pada gambar bahwa proses yang dijalankan berhasil dengan mengembalikan output terkait informasi status (Success), message (Default user created), dan data user (name “Nahida”, email “nahida@akademiya.ac.id”, password “smol”, updated_at, created_at, dan id “1”)
 
----
-
-5. Menjalankan aplikasi pada route /users/new menggunakan postman (URL “http://localhost:8000/users/new”, method “POST”, dan body (name “Cyno”, email “cyno@akademiya.ac.id”, password “mahamatra”). Terlihat pada gambar bahwa proses yang dijalankan berhasil dengan mengembalikan output terkait informasi status (Success), message (New user created), dan data user (name “Cyno”, email “cyno@akademiya.ac.id”, password “mahamatra”, updated_at, created_at, dan id “3”)
-   
 <img width="650" alt="Screenshot 2023-11-08 124708" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/06a3b282-a355-4d5d-a151-e6a05cc26cc7">
 
 ---
 
-6. Menjalankan aplikasi pada route /users/all menggunakan postman (URL “http://localhost:8000/users/all” dan method “GET”). Terlihat pada gambar bahwa proses yang dijalankan berhasil dengan mengembalikan output terkait informasi status (Success), message (all users grabbed), data user 1 (id “1”, created_at, updated_at, name “Nahida”, email “nahida@akademiya.ac.id”, dan password “smol”), dan data user 2 (id “2”, created_at, updated_at, name “Cyno”, email “cyno@akademiya.ac.id”, dan password “mahamatra”
+5. Menjalankan aplikasi pada route /users/new menggunakan postman (URL “http://localhost:8000/users/new”, method “POST”, dan body (name “Cyno”, email “cyno@akademiya.ac.id”, password “mahamatra”). Terlihat pada gambar bahwa proses yang dijalankan berhasil dengan mengembalikan output terkait informasi status (Success), message (New user created), dan data user (name “Cyno”, email “cyno@akademiya.ac.id”, password “mahamatra”, updated_at, created_at, dan id “3”)
 
 <img width="659" alt="Screenshot 2023-11-08 124727" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/71e43997-b776-4e23-bcb1-827d9563e9a6">
 
 ---
 
+6. Menjalankan aplikasi pada route /users/all menggunakan postman (URL “http://localhost:8000/users/all” dan method “GET”). Terlihat pada gambar bahwa proses yang dijalankan berhasil dengan mengembalikan output terkait informasi status (Success), message (all users grabbed), data user 1 (id “1”, created_at, updated_at, name “Nahida”, email “nahida@akademiya.ac.id”, dan password “smol”), dan data user 2 (id “2”, created_at, updated_at, name “Cyno”, email “cyno@akademiya.ac.id”, dan password “mahamatra”
+
 <img width="651" alt="Screenshot 2023-11-08 124744" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/18942a09-b2f5-4754-85ad-6a7c7823a9b4">
+
+---
