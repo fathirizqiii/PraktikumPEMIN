@@ -118,3 +118,21 @@
 ---
 
 ### Kesimpulan Praktikum ###
+
+1. Dynamic Route:
+- Memahami konsep dynamic route, yaitu route yang dapat berubah-ubah.
+- Menerapkan parameter pada routes (1 atau > 1 parameter) memungkinkan penggunaan variabel yang dinamis
+- Menggunakan optional routes memberikan fleksibilitas, yang memungkinkan endpoint dipanggil dengan atau tanpa parameter variabel.
+
+2. Aliases Route:
+- Konsep aliases route digunakan untuk memberi nama pada route yang telah dibuat untuk membantu mempermudah pengelolaan route saat memanggilnya dalam aplikasi.
+
+3. Group Route:
+- Menerapkan grouping pada routes memungkinkan pengelompokkan route berdasarkan prefix tertentu.
+- Selain prefix, pengguna juga dapat mengelompokkan middleware dan namespace pada kelompok routes.
+
+4. Middleware:
+- Secara konsep, middleware bersifat sebagai penengah antara komunikasi aplikasi dan client, yang sering digunakan untuk membatasi interaksi dengan aplikasi.
+- Pada percobaan praktikum, praktikan diminta untuk membuat middleware Age yang memeriksa usia pengguna sebelum memproses permintaan.
+- Pendaftaran middleware pada aplikasi dilakukan pada file bootstrap/app.php, yang menunjukkan cara mengatur middleware pada tingkat aplikasi.
+- Penerapan middleware pada route tertentu memastikan bahwa filter hanya diterapkan pada route yang diinginkan.
