@@ -34,8 +34,13 @@
 
 ---
 
-3. 
+### B. Controller ###
+
+1. Membuat File Controller baru bernamakan “HomeController.php” dalam folder app/Http/Controllers dengan melakukan copy dari File “ExampleController.php”. Proses selanjutnya dilakukan dengan menambahkan fungsi index()
+
 <img width="791" alt="Screenshot 2023-11-08 124320" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f8e6a919-34c4-46ca-88c7-213fd2f1c605">
+
+2. 
 <img width="793" alt="Screenshot 2023-11-08 124333" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/286c4bfd-89d1-4b8b-ac55-67a1c7ae3c45">
 <img width="791" alt="Screenshot 2023-11-08 124352" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f3e4374b-6765-4d92-bf74-76b69ac82047">
 <img width="794" alt="Screenshot 2023-11-08 124407" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/24f238ec-91d9-4946-9ce8-dfc5e9c29dfd">
