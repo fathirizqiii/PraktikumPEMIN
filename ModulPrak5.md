@@ -1,3 +1,19 @@
+# Praktikum 5 : Dynamic Route dan Middleware
+
+## Nama : Muhammad Fathi Rizqi ##
+## NIM : 215150707111016 ##
+
+### Tujuan Praktikum ###
+1. Melakukan dinamic routing.
+2. Melakukan alias route.
+3. Melakukan group route.
+4. Melakukan Middleware
+
+##
+
+### Langkah Percobaan Praktikum ###
+### A. Dynamic Route ###
+
 <img width="896" alt="Screenshot 2023-11-08 123439" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1098de71-4ece-438f-af39-f7b320daef63">
 <img width="653" alt="Screenshot 2023-11-08 123502" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a5954201-978e-4d6a-9d7f-699fddfbaaf4">
 <img width="879" alt="Screenshot 2023-11-08 123518" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/edbfbea2-56c6-446c-9d72-850735e2e2e3">
