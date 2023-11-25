@@ -1,3 +1,24 @@
+# Praktikum 6 : Model, Controller dan Request-Response Handler
+
+## Nama : Muhammad Fathi Rizqi ##
+## NIM : 215150707111016 ##
+
+### Tujuan Praktikum ###
+1. Mengimplementasikan model
+2. Mengimplementasikan controller
+3. Mengimplementasikan request handler
+4. Mengimplementasikan response handler
+
+##
+
+### Dasar Teori Praktikum ###
+
+
+
+### Langkah Percobaan Praktikum ###
+
+### A. Dynamic Route ###
+
 <img width="849" alt="Screenshot 2023-11-08 124236" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/16bf09a8-4d19-4d1e-b166-fe134d2d732e">
 <img width="850" alt="Screenshot 2023-11-08 124251" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/be9bdc10-fb20-4eda-83e0-77e996c5a56a">
 <img width="791" alt="Screenshot 2023-11-08 124320" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f8e6a919-34c4-46ca-88c7-213fd2f1c605">
