@@ -20,6 +20,16 @@
 
 ##
 
+### Dasar Teori Praktikum ###
+
+1. PHP >= 7.4
+2. OpenSSL PHP Extension
+3. PDO PHP Extension
+4. Mbstring PHP Extension
+5. MongoDB
+
+##
+
 ### Langkah Percobaan Praktikum ###
 
 1. Melakukan instalasi Composer dan MongoDB berdasarkan sumber download yang telah disediakan pada modul praktikum
