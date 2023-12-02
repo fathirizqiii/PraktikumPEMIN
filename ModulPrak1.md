@@ -20,7 +20,7 @@
 
 ##
 
-### Dasar Teori Praktikum ###
+### Kebutuhan Instalasi Praktikum ###
 
 1. PHP >= 7.4
 2. OpenSSL PHP Extension
