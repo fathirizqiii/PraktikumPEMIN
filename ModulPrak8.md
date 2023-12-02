@@ -25,26 +25,27 @@
 1. 
 
 ###
-<img width="829" alt="Screenshot 2023-12-03 064354" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/c0e301b3-5942-4137-b56a-1caecde4a87c">
-<img width="829" alt="Screenshot 2023-12-03 064408" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a1308111-efe1-41c5-a934-22fa1ec54dc4">
-<img width="905" alt="Screenshot 2023-12-03 064445" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/9c9afbe0-cf4e-47fd-b769-1546bafb1dd6">
-<img width="641" alt="Screenshot 2023-12-03 064506" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/44302e20-bab7-4320-9cf9-fb62acdb681d">
 
-<img width="807" alt="Screenshot 2023-12-03 063632" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/40472893-c22e-46e7-ae12-62f4b0bc3254">
-<img width="842" alt="Screenshot 2023-12-03 063850" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/738f5766-b465-4af8-a66f-1e7cad3d2251">
-<img width="824" alt="Screenshot 2023-12-03 063910" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/744b23ea-b4c9-45dc-aeb0-2cb8024b8289">
-<img width="907" alt="Screenshot 2023-12-03 063928" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/0294bd60-296c-4837-a4a1-9722c553e868">
-<img width="688" alt="Screenshot 2023-12-03 063958" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/d2b22951-488d-4d45-a217-760a9893559b">
-<img width="840" alt="Screenshot 2023-12-03 064017" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/2769e4bd-a6a1-45a8-bf31-1f7cbcb5abfc">
-<img width="922" alt="Screenshot 2023-12-03 064042" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/07eeea90-2c01-4fad-b7b0-7239c51e476d">
-<img width="689" alt="Screenshot 2023-12-03 064114" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/579765f5-0e2a-4fe0-b4fc-f00adf107363">
-<img width="885" alt="Screenshot 2023-12-03 064134" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/62fcade7-714f-43a1-b74f-31a1cb13ffa3">
-<img width="679" alt="Screenshot 2023-12-03 064156" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/eb6a6c64-7297-433b-9082-a94b3c6185bc">
-<img width="871" alt="Screenshot 2023-12-03 064212" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/5e57df7e-36d5-4f59-9034-3c0df5bc72b8">
-<img width="800" alt="Screenshot 2023-12-03 064231" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/03a00e25-5b03-4a7d-b4cd-03cd7abe3ab6">
-<img width="862" alt="Screenshot 2023-12-03 064248" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/6a2759ad-f93f-4be2-8dcd-b03dbfb366fe">
-<img width="674" alt="Screenshot 2023-12-03 064324" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/47c57fc5-ce5d-4ce0-b54d-ffe59acc3618">
-<img width="744" alt="Screenshot 2023-12-03 064339" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/a00fa894-2e4a-4c94-9412-9069fbccdc87">
+<img width="807" alt="Screenshot 2023-12-03 063632" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/67f0cbfe-e4d7-45a9-b0d6-fd77d06a525a">
+<img width="842" alt="Screenshot 2023-12-03 063850" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/afe1e6ff-d556-4f92-b08c-343ffe372da5">
+<img width="824" alt="Screenshot 2023-12-03 063910" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/3785f302-4856-474a-8124-0a148861b158">
+<img width="907" alt="Screenshot 2023-12-03 063928" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/d013142d-2043-40eb-b90f-60c76a0a4e9c">
+<img width="688" alt="Screenshot 2023-12-03 063958" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1af52585-0a30-47af-87d3-802cc7e9ae61">
+<img width="840" alt="Screenshot 2023-12-03 064017" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4bc5f61d-8d33-4040-b1ac-b5d764cfc698">
+<img width="922" alt="Screenshot 2023-12-03 064042" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/67841f80-13d4-474a-91f0-e9145787a7e3">
+<img width="689" alt="Screenshot 2023-12-03 064114" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/1f03d623-4240-4baa-a78a-4aee5664d5d0">
+<img width="885" alt="Screenshot 2023-12-03 064134" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/b7d223b1-fc79-4b18-96ea-679e86bc3378">
+<img width="679" alt="Screenshot 2023-12-03 064156" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/905e56ac-fe0e-476f-bd1a-4db9e58ce0c1">
+<img width="871" alt="Screenshot 2023-12-03 064212" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/7cde9314-7ad4-481a-b4ba-b62a88490330">
+<img width="800" alt="Screenshot 2023-12-03 064231" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/26d88470-e842-4ac8-8627-b7f051561776">
+<img width="862" alt="Screenshot 2023-12-03 064248" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/5fdd498a-a02d-4e85-81fe-e3b818bc3ad2">
+<img width="674" alt="Screenshot 2023-12-03 064324" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/4a047c13-ace3-4a3a-b85f-95466b5be68d">
+<img width="744" alt="Screenshot 2023-12-03 064339" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/96a6240b-16bb-4214-8c45-3abc1002bcda">
+<img width="829" alt="Screenshot 2023-12-03 064354" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/029160a6-49d3-4b34-924c-e229100771f6">
+<img width="829" alt="Screenshot 2023-12-03 064408" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/530884aa-fc9e-4704-bb0f-53dfd4f2bb01">
+<img width="905" alt="Screenshot 2023-12-03 064445" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/e473ea40-1b35-41d6-9a22-2a3a9f9a9b73">
+<img width="641" alt="Screenshot 2023-12-03 064506" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/f9293d3c-d21b-4b71-a9da-5862716af8e5">
+
 
 
 
