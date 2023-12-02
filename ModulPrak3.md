@@ -29,6 +29,13 @@
 
 ##
 
+### Kebutuhan Instalasi Praktikum ###
+
+1. NodeJS
+2. API Client (seperti Postman, Insomnia, RapidAPI, dll)
+
+##
+
 ### Langkah Percobaan Praktikum ###
 
 ### A. Percobaan instalasi NodeJS ###
