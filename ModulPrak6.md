@@ -148,7 +148,7 @@
 1. Model:
 - Model bertanggung jawab untuk menyiapkan, mengatur, dan memanipulasi data dalam database.
 - Pembuatan model pada Lumen dilakukan secara manual disebabkan terdapatnya keterbatasan perintah "Artisan".
-- Contoh implementasi model : User dengan atribut yang sesuai.
+- Contoh implementasi Model : User dengan atribut yang sesuai.
   
 2. Controller:
 - Controller berfungsi sebagai tempat berkumpulnya logika pemrograman yang memisahkan organisasi data pada database.
@@ -156,11 +156,11 @@
 
 3. Request Handler:
 - Mahasiswa diajak untuk mengenal konsep request handler, yaitu fungsi yang berinteraksi dengan data yang dikirim oleh pengguna melalui request.
-- Contoh implementasi request handler : Fungsi index() untuk menanggapi request.
+- Contoh implementasi Request Handler : Fungsi index() untuk menanggapi request.
   
 4. Response Handler:
 - Response handler bersifat sebagai fungsi untuk membentuk output yang diharapkan kepada pengguna, termasuk status code dan header.
-- Contoh implementasi response handler : Fungsi hello() dengan memberikan respons JSON dan mengatur status code.
+- Contoh implementasi Response Handler : Fungsi hello() dengan memberikan respons JSON dan mengatur status code.
   
 5. Implementasi CRUD:
 - Melakukan import model User dan menambahkan tiga fungsi pada controller untuk melakukan operasi CRUD pada tabel users.
