@@ -142,3 +142,31 @@
 <img width="651" alt="Screenshot 2023-11-08 124744" src="https://github.com/fathirizqiii/PraktikumPEMIN/assets/103505061/18942a09-b2f5-4754-85ad-6a7c7823a9b4">
 
 ---
+
+### Kesimpulan Praktikum ###
+
+1. Model:
+
+Mahasiswa diajak untuk memahami konsep model, yang bertanggung jawab untuk menyiapkan, mengatur, dan memanipulasi data dalam database.
+Pembuatan model pada Lumen dilakukan secara manual, karena terdapat keterbatasan perintah Artisan.
+Contoh implementasi model User dengan atribut yang sesuai.
+Controller:
+
+Controller berfungsi sebagai tempat berkumpulnya logika pemrograman yang memisahkan organisasi data pada database.
+Pembuatan salinan controller dengan fungsi index() sebagai contoh implementasi.
+Request Handler:
+
+Mahasiswa diajak untuk mengenal konsep request handler, yaitu fungsi yang berinteraksi dengan data yang dikirim oleh pengguna melalui request.
+Contoh implementasi request handler pada fungsi index() untuk menanggapi request.
+Response Handler:
+
+Konsep response handler dijelaskan sebagai fungsi untuk membentuk output yang diharapkan kepada pengguna, termasuk status code dan header.
+Contoh implementasi response handler pada fungsi hello() dengan memberikan respons JSON dan mengatur status code.
+Implementasi CRUD:
+
+Import model User dan menambahkan tiga fungsi pada controller untuk melakukan operasi CRUD pada tabel users.
+Pembuatan route untuk setiap fungsi CRUD menggunakan group route.
+   
+##
+
+---
