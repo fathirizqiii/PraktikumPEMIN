@@ -235,23 +235,23 @@
 ### Kesimpulan Praktikum ###
 
 1. Pembuatan Tabel:
-- Menggunakan beberapa tabel praktikum ini, seperti posts, comments, tags, dan post_tag.
-- Membuat file migrasi untuk masing-masing tabel menggunakan perintah Artisan.
+- Menggunakan beberapa tabel praktikum ini, seperti "posts", "comments", "tags", dan "post_tag".
+- Membuat file migrasi untuk masing-masing tabel menggunakan perintah "Artisan".
 
 2. Pembuatan Model:
-- Membuat beberapa models untuk masing-masing tabel (Post, Comment, dan Tag) di dalam folder app/Models.
-- Dalam model Post, fungsi comments() ditambahkan untuk menunjukkan relasi One-to-Many dengan model Comment.
-- Dalam model Comment, fungsi post() dan penambahan atribut postId pada $fillable digunakan untuk menunjukkan relasi Many-to-One dengan model Post.
-- Dalam model Post, fungsi tags() ditambahkan untuk menunjukkan relasi Many-to-Many dengan model Tag.
-- Dalam model Tag, fungsi posts() ditambahkan untuk menunjukkan relasi Many-to-Many dengan model Post.
+- Membuat beberapa models untuk masing-masing tabel, yaitu "Post", "Comment", dan "Tag") di dalam folder "app/Models".
+- Dalam model "Post", fungsi "comments(): ditambahkan untuk menunjukkan relasi One-to-Many dengan model "Comment".
+- Dalam model "Comment", fungsi "post()" dan penambahan atribut postId pada $fillable digunakan untuk menunjukkan relasi Many-to-One dengan model "Post".
+- Dalam model "Post", fungsi "tags()" ditambahkan untuk menunjukkan relasi Many-to-Many dengan model "Tag".
+- Dalam model "Tag", fungsi "posts(): ditambahkan untuk menunjukkan relasi Many-to-Many dengan model "Post".
 
 3. Pembuatan Controller:
-- Membuat beberapa controllers (PostController, CommentController, dan TagController)  untuk mengelola operasi CRUD (Create, Read, Update, dan Delete).
-- Menambahkan beberapa fungsi, seperti createPost(), getPostById(), createComment(), createTag(), addTag(), dan sebagainya, sesuai dengan kebutuhan.
+- Membuat beberapa controllers, yaitu "PostController", "CommentController", dan "TagController",  untuk mengelola operasi CRUD (Create, Read, Update, dan Delete).
+- Menambahkan beberapa fungsi, seperti "createPost()", "getPostById()", "createComment()", "createTag()", "addTag()", dan sebagainya, sesuai dengan kebutuhan.
 
 4. Routes:
-- Mengatur routes untuk masing-masing endpoint di dalam file routes/web.php.
-- Contoh endpoint yang ditambahkan : /posts, /posts/{id}, /comments, /tags, dan lainnya.
+- Mengatur routes untuk masing-masing endpoint di dalam file "routes/web.php".
+- Contoh endpoint yang ditambahkan : "/posts", "/posts/{id}", "/comments", "/tags", dan lainnya.
 
 5. Penggunaan Postman:
 - Percobaan dilakukan dengan menggunakan Postman untuk membuat postingan, menambahkan komentar, menambahkan tag, dan menampilkan hasilnya.
