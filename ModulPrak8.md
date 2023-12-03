@@ -145,24 +145,24 @@
 ### Kesimpulan Praktikum ###
 
 1. Register:
-- Memastikan tabel users sudah ada dengan beberapa kolom, seperti id, createdAt, updatedAt, name, email, dan password.
-- Membuat model "User.php" dengan atribut $fillable yang mencakup name, email, dan password.
-- Membuat controller "AuthController.php"  dengan fungsi register() yang memproses permintaan registrasi dan membuat user baru.
+- Memastikan tabel users sudah ada dengan beberapa kolom, seperti "id", "createdAt", "updatedAt", "name", "email", dan "password".
+- Membuat model "User.php" dengan atribut $fillable, yang mencakup name, email, dan password.
+- Membuat controller "AuthController.php" dengan fungsi "register()" yang memproses permintaan registrasi dan membuat user baru.
   
 2. Authentication:
-- Menambahkan fungsi login() pada "AuthController.php" untuk mengelola proses login.
+- Menambahkan fungsi "login()" pada "AuthController.php" untuk mengelola proses login.
 - Melakukan perbandingan terkait password yang diterima dari permintaan dengan password hashed di database.
-- Apabila proses login berhasil, sebuah token akan di-generate menggunakan fungsi Str::random(36) dan disimpan di atribut token pada model User.
+- Apabila proses login berhasil, sebuah token akan di-generate menggunakan fungsi "Str::random(36)" dan disimpan di atribut token pada model "User".
 
 3. Token:
-- Membuat migrasi baru "add_column_token_to_users" untuk menambahkan kolom token ke tabel users.
+- Membuat migrasi baru "add_column_token_to_users" untuk menambahkan kolom token ke tabel "users".
 - Menambahkan atribut token pada model "User.php" dalam atribut $fillable.
 - Setelah login berhasil, token di-generate dan disimpan di dalam database untuk digunakan pada proses authorization.
 
 4. Authorization:
 - Membuat middleware "Authorization.php" untuk mengecek keberadaan dan kevalidan token.
 - Menambahkan middleware pada file "bootstrap/app.php".
-- Menambahkan fungsi home() pada HomeController.php untuk menampilkan pesan selamat datang setelah login.
-- Mengaplikasikan middleware auth pada route /home untuk memastikan bahwa hanya user yang sudah login yang dapat mengaksesnya.
+- Menambahkan fungsi "home()" pada "HomeController.php" untuk menampilkan pesan selamat datang setelah login.
+- Mengaplikasikan middleware auth pada route "/home" untuk memastikan bahwa hanya user yang sudah login yang dapat mengaksesnya.
    
 ##
