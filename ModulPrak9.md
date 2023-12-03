@@ -147,22 +147,22 @@ menggunakan algoritma yang didefinisikan di header.
 - Penyesuaian dilakukan pada migrasi untuk menghapus parameter panjang kolom token.
 
 2. JWT Manual:
-- Menambahkan fungsi base64url_encode, base64url_decode, sign, dan verify pada middleware Authorization.php untuk mengelola operasi encoding, decoding, penandatanganan, dan verifikasi JWT secara manual.
-- Memperbarui fungsi login pada AuthController.php untuk menghasilkan JWT setelah login.
+- Menambahkan fungsi "base64url_encode", "base64url_decode", "sign", dan "verify" pada middleware "Authorization.php" untuk mengelola operasi encoding, decoding, penandatanganan, dan verifikasi JWT secara manual.
+- Memperbarui fungsi login pada "AuthController.php" untuk menghasilkan JWT setelah login.
 - Token yang dihasilkan setelah login dapat digunakan untuk otorisasi di endpoint tertentu.
 
 3. JWT Library:
-- Melakukan generate secret key secara online dan disimpan pada file .env.
+- Melakukan generate secret key secara online dan disimpan pada file ".env".
 - Melakukan penginstalan library PHP-JWT dari Firebase menggunakan Composer.
-- Menambahkan fungsi jwt pada AuthController.php untuk menghasilkan token JWT menggunakan library Firebase.
+- Menambahkan fungsi jwt pada "AuthController.php" untuk menghasilkan token JWT menggunakan library Firebase.
 - Menambahkan middleware "JwtMiddleware.php" untuk mengelola otentikasi JWT menggunakan library Firebase.
-- Mengaktifkan middleware pada route /home pada file web.php.
+- Mengaktifkan middleware pada route "/home" pada "file web.php".
 - Melakukan pengujian dengan menjalankan permintaan login dan menggunakan token yang dihasilkan untuk mengakses endpoint yang memerlukan otentikasi.
 
 4. Hasil Implementasi:
-- Pengguna dapat melakukan registrasi dan login menggunakan endpoint /auth/register dan /auth/login.
-- Token JWT dihasilkan setelah login dan digunakan untuk mengakses endpoint yang memerlukan otorisasi, seperti /home.
-- Middleware JWT memastikan bahwa hanya permintaan yang menyertakan token yang valid yang dapat mengakses route /home.
+- Pengguna dapat melakukan registrasi dan login menggunakan endpoint "/auth/register" dan "/auth/login".
+- Token JWT dihasilkan setelah login dan digunakan untuk mengakses endpoint yang memerlukan otorisasi, seperti "/home".
+- Middleware JWT memastikan bahwa hanya permintaan yang menyertakan token yang valid yang dapat mengakses route "/home".
 - Implementasi menggunakan library Firebase akan memudahkan proses otentikasi dan otorisasi dengan menyediakan fungsi-fungsi yang sudah terdefinisi
    
 ##
