@@ -134,5 +134,5 @@
 4. Middleware:
 - Secara konsep, middleware bersifat sebagai penengah antara komunikasi aplikasi dan client, yang sering digunakan untuk membatasi interaksi dengan aplikasi.
 - Pada percobaan praktikum, praktikan diminta untuk membuat middleware Age yang memeriksa usia pengguna sebelum memproses permintaan.
-- Pendaftaran middleware pada aplikasi dilakukan pada file bootstrap/app.php, yang menunjukkan cara mengatur middleware pada tingkat aplikasi.
+- Pendaftaran middleware pada aplikasi dilakukan pada file "bootstrap/app.php", yang menunjukkan cara mengatur middleware pada tingkat aplikasi.
 - Penerapan middleware pada route tertentu memastikan bahwa filter hanya diterapkan pada route yang diinginkan.
