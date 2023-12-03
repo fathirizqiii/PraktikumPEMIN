@@ -152,18 +152,18 @@
   
 2. Controller:
 - Controller berfungsi sebagai tempat berkumpulnya logika pemrograman yang memisahkan organisasi data pada database.
-- Contoh implementasi Controller : Pembuatan salinan controller dengan fungsi index() .
+- Contoh implementasi Controller : Pembuatan salinan controller dengan fungsi "index()" .
 
 3. Request Handler:
 - Mahasiswa diajak untuk mengenal konsep request handler, yaitu fungsi yang berinteraksi dengan data yang dikirim oleh pengguna melalui request.
-- Contoh implementasi Request Handler : Fungsi index() untuk menanggapi request.
+- Contoh implementasi Request Handler : Fungsi "index()" untuk menanggapi request.
   
 4. Response Handler:
 - Response handler bersifat sebagai fungsi untuk membentuk output yang diharapkan kepada pengguna, termasuk status code dan header.
-- Contoh implementasi Response Handler : Fungsi hello() dengan memberikan respons JSON dan mengatur status code.
+- Contoh implementasi Response Handler : Fungsi "hello()" dengan memberikan respons JSON dan mengatur status code.
   
 5. Implementasi CRUD:
-- Melakukan import model User dan menambahkan tiga fungsi pada controller untuk melakukan operasi CRUD pada tabel users.
+- Melakukan import model "User" dan menambahkan tiga fungsi pada controller untuk melakukan operasi CRUD pada tabel "users".
 - Melakukan pembuatan route untuk setiap fungsi CRUD menggunakan group route.
    
 ##
