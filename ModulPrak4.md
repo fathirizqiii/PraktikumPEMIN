@@ -118,20 +118,20 @@
 
 1. Basic Routing:
 
-- Melakukan penambahan endpoint dengan metode GET pada file web.php untuk menanggapi permintaan GET pada URL /get.
-- Melakukan implementasi dasar routing dengan menjalankan server dan membuka browser ke http://localhost:8000/get.
+- Melakukan penambahan endpoint dengan metode GET pada file "web.php" untuk menanggapi permintaan GET pada URL /get.
+- Melakukan implementasi dasar routing dengan menjalankan server dan membuka browser ke "http://localhost:8000/get".
 
 2. Metode POST, PUT, PATCH, DELETE, dan OPTIONS:
 
-- Melakukan penambahan route untuk metode POST, PUT, PATCH, DELETE, dan OPTIONS pada file web.php.
+- Melakukan penambahan route untuk metode POST, PUT, PATCH, DELETE, dan OPTIONS pada file "web.php".
 - Menggunakan ekstensi Thunder Client pada VSCode untuk membuat permintaan ke server dengan metode yang sesuai.
 - Tujuan percobaan ini adalah memastikan server merespons dengan benar untuk setiap metode yang diimplementasikan.
 
 3. Migrasi Database:
 
-- Melakukan konfigurasi database di file .env dan menghidupkan Lumen untuk menggunakan Eloquent.
+- Melakukan konfigurasi database di file ".env" dan menghidupkan Lumen untuk menggunakan Eloquent.
 - Menjalankan perintah php artisan make:migration untuk membuat dua file migrasi untuk tabel "users" dan "products"
 - Melakukan modifikasi struktur tabel dalam fungsi up() pada masing-masing file migrasi
-- Menjalankan migrasi dengan perintah php artisan migrate untuk menghasilkan pembuatan tabel baru dalam database.
+- Menjalankan migrasi dengan perintah "php artisan migrate" untuk menghasilkan pembuatan tabel baru dalam database.
 
 ### 
